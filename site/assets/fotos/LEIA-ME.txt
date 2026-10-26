@@ -1,4 +1,0 @@
-Coloque aqui as fotos (JPG) com estes nomes. Enquanto faltar a foto, o site mostra "Foto em breve".
-Espaço: espaco-01.jpg (fachada), espaco-02.jpg, espaco-03.jpg, espaco-04.jpg | Pets: pet-01.jpg, pet-02.jpg
-Cases: case1-antes.jpg, case1-depois.jpg, case2-antes.jpg, case2-depois.jpg, case3-antes.jpg, case3-depois.jpg
-Dica: fotos de até 1600 px de largura e menos de 400 KB cada, para o site carregar rápido.
